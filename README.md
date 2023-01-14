@@ -1,4 +1,4 @@
-# gitTask-
+# gitTask
 HyperionDev Web Development Bootcamp - Task 43
 
 This is a simple project to test the functionality of GitHub.
